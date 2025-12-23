@@ -3,7 +3,6 @@ import config as cfg
 from google import genai
 from google.genai import types
 import sys # <--for clean exits if needed
-import google.generativeai as genai
 
 
 # Initialize the Gemini Client globally
