@@ -9,6 +9,7 @@ MODE = "AI" # <<< CHANGED from "RANDOM" to "AI"
 
 # Channels you want to monitor
 CHANNELS = ["dryjokesonline",
+            "stockverified",
            -1003394037158 #Test channel
             ]
 
